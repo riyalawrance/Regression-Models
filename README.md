@@ -13,8 +13,8 @@ A Jupyter notebook implementing Linear, Quadratic, and Cubic regression models w
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/polynomial-regression-analysis.git
-cd polynomial-regression-analysis
+git clone https://github.com/yourusername/Regression-Models.git
+cd Regression-Models
 ```
 
 2. Install dependencies
@@ -30,7 +30,7 @@ jupyter notebook
 ## Usage
 
 1. Place your dataset as `Data.csv` in the project folder
-2. Open `Polynomial_Regression_Analysis.ipynb`
+2. Open `Regression_models.ipynb`
 3. Run all cells or execute step by step
 
 ### Dataset Format
@@ -49,9 +49,8 @@ Each model outputs:
 
 ## Files
 
-- `Polynomial_Regression_Analysis.ipynb` - Main notebook
+- `Regression_models.ipynb` - Main notebook
 - `Data.csv` - Your dataset
-- `requirements.txt` - Dependencies
 
 ## Contributing
 
@@ -60,6 +59,3 @@ Each model outputs:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
